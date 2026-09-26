@@ -1,1 +1,16 @@
 node_modules
+# Tooling & System ignores
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+.vscode/
+.idea/
+*.log
+.env
+.env.local
+dist/
+build/
+.cache/
+coverage/
+

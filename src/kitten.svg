@@ -1,0 +1,12 @@
+<svg className="wow-star" version="1.1" viewBox="0 0 300 300" preserveAspectRatio="xMinYMin meet">
+
+  <g className="wow-star__group" id="wowStarGroup" transform="translate(-60,-533)">
+    <path className="wow-start__path" id="wowStarPath" d="M 420,505 230,430 100,590 70,390 -130,355 30,230 -45,40 145,110 275,-45 305,155 505,190 350,310 z" transform="matrix(0.46,0,0,0.46,124,558)" />
+  </g>
+  <foreignobject className="wow-star__text" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <h2 className="wow-star__title">html inside svg</h2>
+      <img className="wow-star__image" src="https://placekitten.com/333/333" alt="cat"/>
+    </body>
+  </foreignobject>
+</svg>
